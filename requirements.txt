@@ -6,3 +6,6 @@ plotly.express
 pathlib
 app
 dash_gif_component
+dash.dependencies
+dash_html_components
+dash_core_components
