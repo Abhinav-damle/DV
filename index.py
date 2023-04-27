@@ -8,7 +8,7 @@ from app import app
 
 from apps import homepage , Netflix
 import dash
-
+server=app.server
 navbar = dbc.Navbar(
             dbc.Container(
                 [
