@@ -2,10 +2,9 @@ dash==2.6.0
 pandas
 gunicorn
 dash_bootstrap_components
-plotly.express 
+plotly
 pathlib
 app
 dash_gif_component
-dash.dependencies
 dash_html_components
 dash_core_components
