@@ -5,3 +5,4 @@ dash_bootstrap_components
 plotly.express 
 pathlib
 app
+dash_gif_component
